@@ -1,0 +1,27 @@
+/* global */
+body{
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+button {
+  outline: none;
+}
+.blueBtn {
+  background-color: #39495c;
+  border-radius: 5px;
+  font-size: 18px;
+  width: 60px;
+  height: 50px;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
